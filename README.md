@@ -3,7 +3,7 @@
 ##### コードのサンプルです。フォルダの中のsampleファイルに内容が記述してあります。
 ##### 基本的なものを抜粋してあるため，すべてを網羅しているわけではないので注意してください。
 - MarkDown
-	- GitHub Flavored Markdown(GFM)も混ぜて書いています。
+	- 記法はGitHub Flavored Markdown(GFM)に準拠しています。
 
 ## 追加予定
 - html
